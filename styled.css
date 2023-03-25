@@ -24,9 +24,9 @@ img {
 .item__img {
   border: solid 1px;
   min-width: 100px;
-  width: 300px;
+  width: 650px;
   min-height: 300px;
-  height: 400px;
+  height: 900px;
   background-color: aliceblue;
   padding: 5px;
   margin: 20px;
@@ -39,11 +39,12 @@ img {
   grid-auto-columns: 40px;
   grid-gap: 10px;
   position: absolute;
+  margin: 10px 0 0 10px;
 }
 .panel_2 {
   display: flex;
   grid-gap: 10px;
-  width: 100%;
+  width: auto;
   flex-direction: column;
   align-items: flex-end;
   position: absolute;
@@ -52,6 +53,7 @@ img {
 }
 .panel_3 {
   display: grid;
+  width: auto;
   grid-template-rows: repeat(1, 40px);
   grid-auto-columns: 40px;
   grid-gap: 10px;
@@ -162,4 +164,5 @@ ul li:hover div {
   height: 100%;
   grid-template-columns: repeat(1, 1fr);
   grid-gap: 5px;
+  /* overflow: hidden; */
 }
