@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.d89f1078.css",
+    "main.js": "/test/static/js/main.75faa064.js",
+    "static/js/787.28cb0dcd.chunk.js": "/test/static/js/787.28cb0dcd.chunk.js",
+    "static/media/archive-svgrepo-com.svg": "/test/static/media/archive-svgrepo-com.f371f511203b38c2063aaf0da2faa2b0.svg",
+    "static/media/add-plus-square-svgrepo-com.svg": "/test/static/media/add-plus-square-svgrepo-com.1f97c9f4191ab822ff956ef50797cbdd.svg",
+    "static/media/add-minus-square-svgrepo-com.svg": "/test/static/media/add-minus-square-svgrepo-com.b2f6f44742dd0273c05866d774b0e4bd.svg",
+    "static/media/table-add-svgrepo-com.svg": "/test/static/media/table-add-svgrepo-com.508903e6ec6c996c8355d54647afb935.svg",
+    "static/media/edit-pencil-01-svgrepo-com.svg": "/test/static/media/edit-pencil-01-svgrepo-com.532f7c50678a9e6b579f2f05e4eebc7f.svg",
+    "index.html": "/test/index.html",
+    "static/media/search-magnifying-glass-svgrepo-com.svg": "/test/static/media/search-magnifying-glass-svgrepo-com.46f83f6bbf60bc904bb85857bf65b5ea.svg",
+    "static/media/add-column-svgrepo-com.svg": "/test/static/media/add-column-svgrepo-com.653d1d65e6d0572751100a45b3894e97.svg",
+    "static/media/add-row-svgrepo-com.svg": "/test/static/media/add-row-svgrepo-com.d88523e4e913a97adad5f4be8928abbe.svg",
+    "main.d89f1078.css.map": "/test/static/css/main.d89f1078.css.map",
+    "main.75faa064.js.map": "/test/static/js/main.75faa064.js.map",
+    "787.28cb0dcd.chunk.js.map": "/test/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d89f1078.css",
+    "static/js/main.75faa064.js"
+  ]
+}
