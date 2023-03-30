@@ -1,8 +1,23 @@
 {
   "files": {
-    "main.css": "/division_of_book_pages/static/css/main.db80342d.css",
-    "main.js": "/division_of_book_pages/static/js/main.3608676c.js",
+    "main.css": "/division_of_book_pages/static/css/main.5cafd79f.css",
+    "main.js": "/division_of_book_pages/static/js/main.49dcf29e.js",
     "static/js/787.e528b1f5.chunk.js": "/division_of_book_pages/static/js/787.e528b1f5.chunk.js",
+    "static/media/title.jpg": "/division_of_book_pages/static/media/title.bccbd9b15d51c11a87d0.jpg",
+    "static/media/11.jpg": "/division_of_book_pages/static/media/11.4cb8d43efc91bbb12513.jpg",
+    "static/media/0.jpg": "/division_of_book_pages/static/media/0.5eee61b925da0d1b71db.jpg",
+    "static/media/9.jpg": "/division_of_book_pages/static/media/9.a167f6d38d4de25dff3e.jpg",
+    "static/media/6.jpg": "/division_of_book_pages/static/media/6.ce8e8dd1b5ebeb21f8ba.jpg",
+    "static/media/3.jpg": "/division_of_book_pages/static/media/3.be2bca0d3500fe60075c.jpg",
+    "static/media/10.jpg": "/division_of_book_pages/static/media/10.a1f3fc222baecabba146.jpg",
+    "static/media/1.jpg": "/division_of_book_pages/static/media/1.8afad103e634308ff59a.jpg",
+    "static/media/8.jpg": "/division_of_book_pages/static/media/8.267fc7bea46121509505.jpg",
+    "static/media/4.jpg": "/division_of_book_pages/static/media/4.f819b8c94c52a3562cfe.jpg",
+    "static/media/2.jpg": "/division_of_book_pages/static/media/2.e270c56624c131130b15.jpg",
+    "static/media/7.jpg": "/division_of_book_pages/static/media/7.958555d2147d963d49d1.jpg",
+    "static/media/12.jpg": "/division_of_book_pages/static/media/12.c01b5cd0ff439c7f5fdc.jpg",
+    "static/media/5.jpg": "/division_of_book_pages/static/media/5.a457871db3a975b9c5a8.jpg",
+    "static/media/13.jpg": "/division_of_book_pages/static/media/13.cadb5ce46fbca7da2b61.jpg",
     "static/media/archive-svgrepo-com.svg": "/division_of_book_pages/static/media/archive-svgrepo-com.f371f511203b38c2063aaf0da2faa2b0.svg",
     "static/media/add-plus-square-svgrepo-com.svg": "/division_of_book_pages/static/media/add-plus-square-svgrepo-com.1f97c9f4191ab822ff956ef50797cbdd.svg",
     "static/media/add-minus-square-svgrepo-com.svg": "/division_of_book_pages/static/media/add-minus-square-svgrepo-com.b2f6f44742dd0273c05866d774b0e4bd.svg",
@@ -12,12 +27,12 @@
     "static/media/search-magnifying-glass-svgrepo-com.svg": "/division_of_book_pages/static/media/search-magnifying-glass-svgrepo-com.46f83f6bbf60bc904bb85857bf65b5ea.svg",
     "static/media/add-column-svgrepo-com.svg": "/division_of_book_pages/static/media/add-column-svgrepo-com.653d1d65e6d0572751100a45b3894e97.svg",
     "static/media/add-row-svgrepo-com.svg": "/division_of_book_pages/static/media/add-row-svgrepo-com.d88523e4e913a97adad5f4be8928abbe.svg",
-    "main.db80342d.css.map": "/division_of_book_pages/static/css/main.db80342d.css.map",
-    "main.3608676c.js.map": "/division_of_book_pages/static/js/main.3608676c.js.map",
+    "main.5cafd79f.css.map": "/division_of_book_pages/static/css/main.5cafd79f.css.map",
+    "main.49dcf29e.js.map": "/division_of_book_pages/static/js/main.49dcf29e.js.map",
     "787.e528b1f5.chunk.js.map": "/division_of_book_pages/static/js/787.e528b1f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db80342d.css",
-    "static/js/main.3608676c.js"
+    "static/css/main.5cafd79f.css",
+    "static/js/main.49dcf29e.js"
   ]
 }
