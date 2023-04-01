@@ -1,7 +1,9 @@
 {
   "files": {
+
     "main.css": "/division_of_book_pages/static/css/main.300ca84e.css",
     "main.js": "/division_of_book_pages/static/js/main.c80adc84.js",
+
     "static/js/787.e528b1f5.chunk.js": "/division_of_book_pages/static/js/787.e528b1f5.chunk.js",
     "static/media/title.jpg": "/division_of_book_pages/static/media/title.bccbd9b15d51c11a87d0.jpg",
     "static/media/11.jpg": "/division_of_book_pages/static/media/11.4cb8d43efc91bbb12513.jpg",
@@ -30,6 +32,7 @@
     "static/media/search-magnifying-glass-svgrepo-com.svg": "/division_of_book_pages/static/media/search-magnifying-glass-svgrepo-com.46f83f6bbf60bc904bb85857bf65b5ea.svg",
     "static/media/add-column-svgrepo-com.svg": "/division_of_book_pages/static/media/add-column-svgrepo-com.653d1d65e6d0572751100a45b3894e97.svg",
     "static/media/add-row-svgrepo-com.svg": "/division_of_book_pages/static/media/add-row-svgrepo-com.d88523e4e913a97adad5f4be8928abbe.svg",
+
     "main.300ca84e.css.map": "/division_of_book_pages/static/css/main.300ca84e.css.map",
     "main.c80adc84.js.map": "/division_of_book_pages/static/js/main.c80adc84.js.map",
     "787.e528b1f5.chunk.js.map": "/division_of_book_pages/static/js/787.e528b1f5.chunk.js.map"
@@ -37,5 +40,6 @@
   "entrypoints": [
     "static/css/main.300ca84e.css",
     "static/js/main.c80adc84.js"
+
   ]
 }
